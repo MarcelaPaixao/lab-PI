@@ -8,7 +8,7 @@ public class Country {
         this.code = code;
         this.year = year;
         this.fem_exp = fem_exp;
-        this.male_exp = male_exp;
+        this.male_exp = male_exp; 
     }
 
 }
