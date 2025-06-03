@@ -28,7 +28,11 @@
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-csv</artifactId>
+<<<<<<< HEAD
       <version>1.10.0</version>
+=======
+      <version>1.14.0</version>
+>>>>>>> c0f2da75b84eba19fc2d014ee8c2f5a0c49cb708
     </dependency>
   </dependencies>
 
